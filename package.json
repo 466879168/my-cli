@@ -1,0 +1,27 @@
+{
+  "name": "my-cli",
+  "version": "1.0.0",
+  "description": "脚手架工具",
+  "main": "index.js",
+  "bin": {
+    "my": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/466879168/my-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/466879168/my-cli/issues"
+  },
+  "homepage": "https://github.com/466879168/my-cli#readme",
+  "dependencies": {
+    "commander": "^6.2.1",
+    "download-git-repo": "^3.0.2"
+  }
+}
