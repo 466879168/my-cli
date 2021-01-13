@@ -1,7 +1,7 @@
 {
-  "name": "my-cli",
+  "name": "mengyang-cli",
   "version": "1.0.0",
-  "description": "脚手架工具",
+  "description": "项目脚手架工具",
   "main": "index.js",
   "bin": {
     "my": "index.js"
@@ -13,9 +13,14 @@
     "type": "git",
     "url": "git+https://github.com/466879168/my-cli.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "vue",
+    "react",
+    "CLI",
+    "component"
+  ],
+  "author": "mengyang",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/466879168/my-cli/issues"
   },
